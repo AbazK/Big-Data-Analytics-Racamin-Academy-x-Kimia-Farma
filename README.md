@@ -26,5 +26,14 @@ Kimia Farma, sebagai salah satu BUMN farmasi terbesar di Indonesia, tentunya mem
 
 ### Membuat tabel analisa
 1. Berikut merupakan tabel analisa dengan menggunakan BigQuery
+![alt text](https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/main/Screenshot%202025-03-24%20133934.png?raw=true)
+![alt text](https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/main/Screenshot%202025-03-24%20133959.png?raw=true)
 
-   
+### Membuat Query Syntax
+1. Berikut merupaakan Query tabg digunakan untuk membuat tabel analisa
+![alt text](https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/main/Screenshot%202025-03-24%20153432.png?raw=true)
+![alt text](https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/main/Screenshot%202025-03-24%20153444.png?raw=true)
+
+### Membuat Dashboard Performance Dengan Google Looker Studio
+Berikut merupakan dashboard performance yang dibuat dengan google looker studio
+![alt text](https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/main/Screenshot%202025-03-24%20154437.png?raw=true)
