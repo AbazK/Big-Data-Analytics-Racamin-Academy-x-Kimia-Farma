@@ -19,7 +19,9 @@ Kimia Farma, sebagai salah satu BUMN farmasi terbesar di Indonesia, tentunya mem
 1. Buka BigQuery kemudian create new project dengan nama Rakamin_KF_Analytics
 2. Download dataset yang telah disediakan.
 3. Create dataset pada project Rakamin_KF_Analytics dengan nama kimia-farma.
-4. Import dataset yang telah didownload dengan cara klik icon titik tiga pada bagian kanan kemudian create table, pada bagian source pilih upload kemudian browse dan select file dengan nama  kf_final_transaction.csv, kf_inventory.csv, kf_kantor_cabang.csv, dan kf_product.csv jika sudah lalu klik create table. Seperti pada gambar berikut 
- ! [alt text] (https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/b57809a282783f7ead4c647fb32cf6fc2a99a313/Final%20Task/Screenshot%202025-03-24%20120350.png?raw=true)
+4. Import dataset yang telah didownload dengan cara klik icon titik tiga pada bagian kanan kemudian create table, pada bagian source pilih upload kemudian browse dan select file dengan nama  kf_final_transaction.csv, kf_inventory.csv, kf_kantor_cabang.csv, dan kf_product.csv jika sudah lalu klik create table. Seperti pada gambar berikut
+![alt text](https://github.com/AbazK/Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma/blob/b57809a282783f7ead4c647fb32cf6fc2a99a313/Final%20Task/Screenshot%202025-03-24%20120350.png?raw=true)
+
+
 6. Setelah dataset berhasil di import selanjutnya cek apakah dataset yang di import sudah tersedia pada dataset kimia_farma.
 7. Berikut adalah gambar untuk create table
