@@ -1,19 +1,18 @@
 # Big-Data-Analytics-Racamin-Academy-x-Kimia-Farma
 ## About Company
-Kimia Farma adalah perusahaan industri farmasi pertama di Indonesia yang didirikan oleh Pemerintah Hindia Belanda tahun 1817. Nama perusahaan ini pada awalnya adalah NV Chemicalien Handle Rathkamp & Co. Berdasarkan kebijaksanaan nasionalisasi atas eks perusahaan Belanda di masa awal kemerdekaan, pada tahun 1958, Pemerintah Republik Indonesia melakukan peleburan sejumlah perusahaan farmasi menjadi PNF (Perusahaan Negara Farmasi) Bhinneka Kimia Farma. Kemudian pada tanggal 16 Agustus 1971, bentuk badan hukum PNF diubah menjadi Perseroan Terbatas, sehingga nama perusahaan berubah menjadi PT Kimia Farma (Persero). Kegiatan PT Kimia Farma di bidang ritel farmasi meliputi apotek, klinik kesehatan, dan laboratorium diagnostik yang tersebar di seluruh Indonesia. Sebagai perusahaan industri farmasi, PT Kimia Farma tentu saja memproduksi produk farmasi yang dapat dibedakan dalam empat kategori, yakni generik, OTC & herbal, etikal, dan kosmetik.
+Kimia Farma merupakan perusahaan farmasi pertama di Indonesia yang didirikan oleh Pemerintah Hindia Belanda pada tahun 1817. Awalnya, perusahaan ini bernama NV Chemicalien Handle Rathkamp & Co. Setelah Indonesia merdeka, pemerintah menerapkan kebijakan nasionalisasi terhadap perusahaan-perusahaan Belanda, termasuk di sektor farmasi. Pada tahun 1958, beberapa perusahaan farmasi dilebur menjadi Perusahaan Negara Farmasi (PNF) Bhinneka Kimia Farma. Kemudian, pada 16 Agustus 1971, status hukum PNF berubah menjadi Perseroan Terbatas (PT), sehingga namanya diubah menjadi PT Kimia Farma (Persero). Dalam sektor ritel farmasi, perusahaan ini mengelola apotek, klinik kesehatan, dan laboratorium diagnostik di seluruh Indonesia. Sebagai industri farmasi, PT Kimia Farma memproduksi berbagai produk yang dikategorikan ke dalam empat jenis, yaitu obat generik, OTC & herbal, obat etikal, dan kosmetik.
 ## Latar Belakang
-Kimia Farma, sebagai salah satu BUMN farmasi terbesar di Indonesia, tentunya memiliki ambisi untuk terus bertumbuh dan meningkatkan pelayanan kesehatan masyarakat. Namun, di era persaingan yang ketat dan landscape bisnis yang dinamis, Kimia Farma perlu terus mengevaluasi kinerjanya secara komprehensif. Disinilah peran Big Data Analytics menjadi penting.  Dengan volume data transaksi, inventaris, cabang, dan produk yang besar, Kimia Farma memiliki harta karun informasi berharga yang belum sepenuhnya tergali. Analisis data yang mendalam dapat membantu Kimia Farma menjawab berbagai pertanyaan krusial terkait kinerja bisnis mereka.
+Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki ambisi untuk terus berkembang dan meningkatkan layanan kesehatan bagi masyarakat. Namun, di tengah persaingan yang semakin ketat dan perubahan dinamika bisnis yang cepat, perusahaan perlu melakukan evaluasi kinerja secara menyeluruh. Di sinilah peran Big Data Analytics menjadi krusial. Dengan jumlah data yang besar dari transaksi, inventaris, cabang, dan produk, Kimia Farma sebenarnya memiliki sumber informasi yang sangat berharga tetapi belum dimanfaatkan secara optimal. Melalui analisis data yang mendalam, perusahaan dapat memperoleh wawasan penting untuk menjawab berbagai pertanyaan strategis terkait kinerja bisnisnya.
 ## Sumber Data
  1. kf_final_transaction.csv
  2. kf_inventory.csv
  3. kf_kantor_cabang.csv
  4. kf_product.csv
 ## Problem Statement
- 1. Memberikan gambaran menyeluruh tentang kinerja Kimia Farma selama periode 2020-2023
- 2. Membantu para pemangku kepentingan dalam memahami tren dan pola kinerja perusahaan
- 3. Mengidentifikasi area yang perlu dioptimalkan untuk meningkatkan kinerja perusahaan
- 4. Membantu dalam mengambil keputusan strategis untuk meningkatkan pendapatan dan total transaksi di masa depan
- 5. Memberikan informasi tentang cabang-cabang yang perlu dioptimalkan untuk meningkatkan customer satisfaction
+ 1. Menyajikan gambaran komprehensif meengenai kinerja Kimia Farma dalam rentang 2020 - 2023
+ 2. Mengidentifikasi aspek yang memerlukan perbaikan guna mengoptimalkan kinerja perusahaan.
+ 3. Membantu dalam mengambil keputusan strategis untuk meningkatkan pendapatan dan total transaksi di masa depan
+ 4. Menyajikan informasi mengenai cabang-cabang yang perlu ditingkatkan guna meningkatkan kepuasan pelanggan.
 ## Step Pengerjaan Final Task
 ### Import Dataset ke BigQuery
 1. Buka BigQuery kemudian create new project dengan nama Rakamin_KF_Analytics
